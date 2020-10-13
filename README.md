@@ -1,4 +1,5 @@
 <img src="https://2ujst446wdhv3307z249ttp0-wpengine.netdna-ssl.com/wp-content/themes/aviatrix/resources/images/logo.svg" style="width:125px;"/>
+
 # HashiConf Digital 2020 Demo
 
 ### Summary
