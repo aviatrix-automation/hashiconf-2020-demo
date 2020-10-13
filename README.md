@@ -74,7 +74,7 @@ $ cat describe-vpcs.txt
 #### describe-subnets.txt
 
 ```
-tm-mbp16:hashiconf-demo travis$ cat describe-subnets.txt
+$ cat describe-subnets.txt
 ---------------------------------------------------------------------------------------------------------
 |                                            DescribeSubnets                                            |
 +-------------------------------------------------------------------------------------------------------+
