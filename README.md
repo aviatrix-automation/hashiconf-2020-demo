@@ -49,7 +49,7 @@ $ cat describe-vpcs.txt
 ||  DhcpOptionsId                |  dopt-b5b74dcf                           ||
 ||  InstanceTenancy              |  default                                 ||
 ||  IsDefault                    |  False                                   ||
-||  OwnerId                      |  950199909838                            ||
+||  OwnerId                      |  123456789                            ||
 ||  State                        |  available                               ||
 ||  VpcId                        |  vpc-0ad8269a5ef8e3af7                   ||
 |+-------------------------------+------------------------------------------+|
@@ -87,9 +87,9 @@ tm-mbp16:hashiconf-demo travis$ cat describe-subnets.txt
 ||  CidrBlock                   |  10.0.16.0/20                                                        ||
 ||  DefaultForAz                |  False                                                               ||
 ||  MapPublicIpOnLaunch         |  False                                                               ||
-||  OwnerId                     |  950199909838                                                        ||
+||  OwnerId                     |  123456789                                                        ||
 ||  State                       |  available                                                           ||
-||  SubnetArn                   |  arn:aws:ec2:us-east-1:950199909838:subnet/subnet-0a5a4fcfe58779a16  ||
+||  SubnetArn                   |  arn:aws:ec2:us-east-1:123456789:subnet/subnet-0a5a4fcfe58779a16  ||
 ||  SubnetId                    |  subnet-0a5a4fcfe58779a16                                            ||
 ||  VpcId                       |  vpc-0ad8269a5ef8e3af7                                               ||
 |+------------------------------+----------------------------------------------------------------------+|
@@ -110,9 +110,9 @@ tm-mbp16:hashiconf-demo travis$ cat describe-subnets.txt
 ||  CidrBlock                   |  10.0.112.0/20                                                       ||
 ||  DefaultForAz                |  False                                                               ||
 ||  MapPublicIpOnLaunch         |  False                                                               ||
-||  OwnerId                     |  950199909838                                                        ||
+||  OwnerId                     |  123456789                                                        ||
 ||  State                       |  available                                                           ||
-||  SubnetArn                   |  arn:aws:ec2:us-east-1:950199909838:subnet/subnet-048568a00dc534960  ||
+||  SubnetArn                   |  arn:aws:ec2:us-east-1:123456789:subnet/subnet-048568a00dc534960  ||
 ||  SubnetId                    |  subnet-048568a00dc534960                                            ||
 ||  VpcId                       |  vpc-0ad8269a5ef8e3af7                                               ||
 |+------------------------------+----------------------------------------------------------------------+|
@@ -133,9 +133,9 @@ tm-mbp16:hashiconf-demo travis$ cat describe-subnets.txt
 ||  CidrBlock                   |  10.0.96.0/20                                                        ||
 ||  DefaultForAz                |  False                                                               ||
 ||  MapPublicIpOnLaunch         |  False                                                               ||
-||  OwnerId                     |  950199909838                                                        ||
+||  OwnerId                     |  123456789                                                        ||
 ||  State                       |  available                                                           ||
-||  SubnetArn                   |  arn:aws:ec2:us-east-1:950199909838:subnet/subnet-0e58632f922d030d6  ||
+||  SubnetArn                   |  arn:aws:ec2:us-east-1:123456789:subnet/subnet-0e58632f922d030d6  ||
 ||  SubnetId                    |  subnet-0e58632f922d030d6                                            ||
 ||  VpcId                       |  vpc-0ad8269a5ef8e3af7                                               ||
 |+------------------------------+----------------------------------------------------------------------+|
@@ -156,9 +156,9 @@ tm-mbp16:hashiconf-demo travis$ cat describe-subnets.txt
 ||  CidrBlock                   |  10.0.64.0/20                                                        ||
 ||  DefaultForAz                |  False                                                               ||
 ||  MapPublicIpOnLaunch         |  False                                                               ||
-||  OwnerId                     |  950199909838                                                        ||
+||  OwnerId                     |  123456789                                                        ||
 ||  State                       |  available                                                           ||
-||  SubnetArn                   |  arn:aws:ec2:us-east-1:950199909838:subnet/subnet-04b4ee0fb1fb77827  ||
+||  SubnetArn                   |  arn:aws:ec2:us-east-1:123456789:subnet/subnet-04b4ee0fb1fb77827  ||
 ||  SubnetId                    |  subnet-04b4ee0fb1fb77827                                            ||
 ||  VpcId                       |  vpc-0ad8269a5ef8e3af7                                               ||
 |+------------------------------+----------------------------------------------------------------------+|
@@ -179,9 +179,9 @@ tm-mbp16:hashiconf-demo travis$ cat describe-subnets.txt
 ||  CidrBlock                   |  10.0.192.0/20                                                       ||
 ||  DefaultForAz                |  False                                                               ||
 ||  MapPublicIpOnLaunch         |  False                                                               ||
-||  OwnerId                     |  950199909838                                                        ||
+||  OwnerId                     |  123456789                                                        ||
 ||  State                       |  available                                                           ||
-||  SubnetArn                   |  arn:aws:ec2:us-east-1:950199909838:subnet/subnet-04f5b2b6442b1c402  ||
+||  SubnetArn                   |  arn:aws:ec2:us-east-1:123456789:subnet/subnet-04f5b2b6442b1c402  ||
 ||  SubnetId                    |  subnet-04f5b2b6442b1c402                                            ||
 ||  VpcId                       |  vpc-0ad8269a5ef8e3af7                                               ||
 |+------------------------------+----------------------------------------------------------------------+|
@@ -202,9 +202,9 @@ tm-mbp16:hashiconf-demo travis$ cat describe-subnets.txt
 ||  CidrBlock                   |  10.0.176.0/20                                                       ||
 ||  DefaultForAz                |  False                                                               ||
 ||  MapPublicIpOnLaunch         |  False                                                               ||
-||  OwnerId                     |  950199909838                                                        ||
+||  OwnerId                     |  123456789                                                        ||
 ||  State                       |  available                                                           ||
-||  SubnetArn                   |  arn:aws:ec2:us-east-1:950199909838:subnet/subnet-0451f2bdb5aa33dd3  ||
+||  SubnetArn                   |  arn:aws:ec2:us-east-1:123456789:subnet/subnet-0451f2bdb5aa33dd3  ||
 ||  SubnetId                    |  subnet-0451f2bdb5aa33dd3                                            ||
 ||  VpcId                       |  vpc-0ad8269a5ef8e3af7                                               ||
 |+------------------------------+----------------------------------------------------------------------+|
@@ -225,9 +225,9 @@ tm-mbp16:hashiconf-demo travis$ cat describe-subnets.txt
 ||  CidrBlock                   |  10.0.32.0/20                                                        ||
 ||  DefaultForAz                |  False                                                               ||
 ||  MapPublicIpOnLaunch         |  False                                                               ||
-||  OwnerId                     |  950199909838                                                        ||
+||  OwnerId                     |  123456789                                                        ||
 ||  State                       |  available                                                           ||
-||  SubnetArn                   |  arn:aws:ec2:us-east-1:950199909838:subnet/subnet-0608a6ed2bfe27812  ||
+||  SubnetArn                   |  arn:aws:ec2:us-east-1:123456789:subnet/subnet-0608a6ed2bfe27812  ||
 ||  SubnetId                    |  subnet-0608a6ed2bfe27812                                            ||
 ||  VpcId                       |  vpc-0ad8269a5ef8e3af7                                               ||
 |+------------------------------+----------------------------------------------------------------------+|
@@ -248,9 +248,9 @@ tm-mbp16:hashiconf-demo travis$ cat describe-subnets.txt
 ||  CidrBlock                   |  10.0.48.0/20                                                        ||
 ||  DefaultForAz                |  False                                                               ||
 ||  MapPublicIpOnLaunch         |  False                                                               ||
-||  OwnerId                     |  950199909838                                                        ||
+||  OwnerId                     |  123456789                                                        ||
 ||  State                       |  available                                                           ||
-||  SubnetArn                   |  arn:aws:ec2:us-east-1:950199909838:subnet/subnet-01c232b0c5733b68a  ||
+||  SubnetArn                   |  arn:aws:ec2:us-east-1:123456789:subnet/subnet-01c232b0c5733b68a  ||
 ||  SubnetId                    |  subnet-01c232b0c5733b68a                                            ||
 ||  VpcId                       |  vpc-0ad8269a5ef8e3af7                                               ||
 |+------------------------------+----------------------------------------------------------------------+|
@@ -271,9 +271,9 @@ tm-mbp16:hashiconf-demo travis$ cat describe-subnets.txt
 ||  CidrBlock                   |  10.0.128.0/20                                                       ||
 ||  DefaultForAz                |  False                                                               ||
 ||  MapPublicIpOnLaunch         |  False                                                               ||
-||  OwnerId                     |  950199909838                                                        ||
+||  OwnerId                     |  123456789                                                        ||
 ||  State                       |  available                                                           ||
-||  SubnetArn                   |  arn:aws:ec2:us-east-1:950199909838:subnet/subnet-0ea74dbaafa376f86  ||
+||  SubnetArn                   |  arn:aws:ec2:us-east-1:123456789:subnet/subnet-0ea74dbaafa376f86  ||
 ||  SubnetId                    |  subnet-0ea74dbaafa376f86                                            ||
 ||  VpcId                       |  vpc-0ad8269a5ef8e3af7                                               ||
 |+------------------------------+----------------------------------------------------------------------+|
@@ -294,9 +294,9 @@ tm-mbp16:hashiconf-demo travis$ cat describe-subnets.txt
 ||  CidrBlock                   |  10.0.144.0/20                                                       ||
 ||  DefaultForAz                |  False                                                               ||
 ||  MapPublicIpOnLaunch         |  False                                                               ||
-||  OwnerId                     |  950199909838                                                        ||
+||  OwnerId                     |  123456789                                                        ||
 ||  State                       |  available                                                           ||
-||  SubnetArn                   |  arn:aws:ec2:us-east-1:950199909838:subnet/subnet-0e02df59e852d7535  ||
+||  SubnetArn                   |  arn:aws:ec2:us-east-1:123456789:subnet/subnet-0e02df59e852d7535  ||
 ||  SubnetId                    |  subnet-0e02df59e852d7535                                            ||
 ||  VpcId                       |  vpc-0ad8269a5ef8e3af7                                               ||
 |+------------------------------+----------------------------------------------------------------------+|
@@ -317,9 +317,9 @@ tm-mbp16:hashiconf-demo travis$ cat describe-subnets.txt
 ||  CidrBlock                   |  10.0.80.0/20                                                        ||
 ||  DefaultForAz                |  False                                                               ||
 ||  MapPublicIpOnLaunch         |  False                                                               ||
-||  OwnerId                     |  950199909838                                                        ||
+||  OwnerId                     |  123456789                                                        ||
 ||  State                       |  available                                                           ||
-||  SubnetArn                   |  arn:aws:ec2:us-east-1:950199909838:subnet/subnet-051582a46ece3ae61  ||
+||  SubnetArn                   |  arn:aws:ec2:us-east-1:123456789:subnet/subnet-051582a46ece3ae61  ||
 ||  SubnetId                    |  subnet-051582a46ece3ae61                                            ||
 ||  VpcId                       |  vpc-0ad8269a5ef8e3af7                                               ||
 |+------------------------------+----------------------------------------------------------------------+|
@@ -340,9 +340,9 @@ tm-mbp16:hashiconf-demo travis$ cat describe-subnets.txt
 ||  CidrBlock                   |  10.0.160.0/20                                                       ||
 ||  DefaultForAz                |  False                                                               ||
 ||  MapPublicIpOnLaunch         |  False                                                               ||
-||  OwnerId                     |  950199909838                                                        ||
+||  OwnerId                     |  123456789                                                        ||
 ||  State                       |  available                                                           ||
-||  SubnetArn                   |  arn:aws:ec2:us-east-1:950199909838:subnet/subnet-0bc5180c9b48dc393  ||
+||  SubnetArn                   |  arn:aws:ec2:us-east-1:123456789:subnet/subnet-0bc5180c9b48dc393  ||
 ||  SubnetId                    |  subnet-0bc5180c9b48dc393                                            ||
 ||  VpcId                       |  vpc-0ad8269a5ef8e3af7                                               ||
 |+------------------------------+----------------------------------------------------------------------+|
@@ -365,7 +365,7 @@ $ cat describe-route-tables.txt
 +-----------------------------------------------------------------------------------+
 ||                                   RouteTables                                   ||
 |+------------------------------+--------------------------------------------------+|
-||  OwnerId                     |  950199909838                                    ||
+||  OwnerId                     |  123456789                                    ||
 ||  RouteTableId                |  rtb-0f0e855c1869c8c9b                           ||
 ||  VpcId                       |  vpc-0ad8269a5ef8e3af7                           ||
 |+------------------------------+--------------------------------------------------+|
@@ -397,7 +397,7 @@ $ cat describe-route-tables.txt
 ||+-------------------------------+-----------------------------------------------+||
 ||                                   RouteTables                                   ||
 |+------------------------------+--------------------------------------------------+|
-||  OwnerId                     |  950199909838                                    ||
+||  OwnerId                     |  123456789                                    ||
 ||  RouteTableId                |  rtb-00ac0c55f5f0a07a4                           ||
 ||  VpcId                       |  vpc-0ad8269a5ef8e3af7                           ||
 |+------------------------------+--------------------------------------------------+|
@@ -429,7 +429,7 @@ $ cat describe-route-tables.txt
 ||+-------------------------------+-----------------------------------------------+||
 ||                                   RouteTables                                   ||
 |+------------------------------+--------------------------------------------------+|
-||  OwnerId                     |  950199909838                                    ||
+||  OwnerId                     |  123456789                                    ||
 ||  RouteTableId                |  rtb-0f4bc8dcf8913adb6                           ||
 ||  VpcId                       |  vpc-0ad8269a5ef8e3af7                           ||
 |+------------------------------+--------------------------------------------------+|
@@ -461,7 +461,7 @@ $ cat describe-route-tables.txt
 ||+-------------------------------+-----------------------------------------------+||
 ||                                   RouteTables                                   ||
 |+------------------------------+--------------------------------------------------+|
-||  OwnerId                     |  950199909838                                    ||
+||  OwnerId                     |  123456789                                    ||
 ||  RouteTableId                |  rtb-04b09efcce150c0cb                           ||
 ||  VpcId                       |  vpc-0ad8269a5ef8e3af7                           ||
 |+------------------------------+--------------------------------------------------+|
@@ -493,7 +493,7 @@ $ cat describe-route-tables.txt
 ||+-------------------------------+-----------------------------------------------+||
 ||                                   RouteTables                                   ||
 |+------------------------------+--------------------------------------------------+|
-||  OwnerId                     |  950199909838                                    ||
+||  OwnerId                     |  123456789                                    ||
 ||  RouteTableId                |  rtb-0febc1415267c89cc                           ||
 ||  VpcId                       |  vpc-0ad8269a5ef8e3af7                           ||
 |+------------------------------+--------------------------------------------------+|
@@ -525,7 +525,7 @@ $ cat describe-route-tables.txt
 ||+-------------------------------+-----------------------------------------------+||
 ||                                   RouteTables                                   ||
 |+------------------------------+--------------------------------------------------+|
-||  OwnerId                     |  950199909838                                    ||
+||  OwnerId                     |  123456789                                    ||
 ||  RouteTableId                |  rtb-07d557992f80f9658                           ||
 ||  VpcId                       |  vpc-0ad8269a5ef8e3af7                           ||
 |+------------------------------+--------------------------------------------------+|
@@ -557,7 +557,7 @@ $ cat describe-route-tables.txt
 ||+-------------------------------+-----------------------------------------------+||
 ||                                   RouteTables                                   ||
 |+------------------------------+--------------------------------------------------+|
-||  OwnerId                     |  950199909838                                    ||
+||  OwnerId                     |  123456789                                    ||
 ||  RouteTableId                |  rtb-08e643eb7d6dc960e                           ||
 ||  VpcId                       |  vpc-0ad8269a5ef8e3af7                           ||
 |+------------------------------+--------------------------------------------------+|
@@ -600,7 +600,7 @@ $ cat describe-route-tables.txt
 ||+-------------------------------+-----------------------------------------------+||
 ||                                   RouteTables                                   ||
 |+------------------------------+--------------------------------------------------+|
-||  OwnerId                     |  950199909838                                    ||
+||  OwnerId                     |  123456789                                    ||
 ||  RouteTableId                |  rtb-08cd69f5db65a9271                           ||
 ||  VpcId                       |  vpc-0ad8269a5ef8e3af7                           ||
 |+------------------------------+--------------------------------------------------+|
@@ -624,7 +624,7 @@ $ cat describe-route-tables.txt
 ||+----------------------+-------------------------+--------------------+---------+||
 ||                                   RouteTables                                   ||
 |+------------------------------+--------------------------------------------------+|
-||  OwnerId                     |  950199909838                                    ||
+||  OwnerId                     |  123456789                                    ||
 ||  RouteTableId                |  rtb-0bfc04e14d968b9b3                           ||
 ||  VpcId                       |  vpc-0ad8269a5ef8e3af7                           ||
 |+------------------------------+--------------------------------------------------+|
@@ -656,7 +656,7 @@ $ cat describe-route-tables.txt
 ||+-------------------------------+-----------------------------------------------+||
 ||                                   RouteTables                                   ||
 |+------------------------------+--------------------------------------------------+|
-||  OwnerId                     |  950199909838                                    ||
+||  OwnerId                     |  123456789                                    ||
 ||  RouteTableId                |  rtb-00e0fad4bdd34b349                           ||
 ||  VpcId                       |  vpc-0ad8269a5ef8e3af7                           ||
 |+------------------------------+--------------------------------------------------+|
@@ -688,7 +688,7 @@ $ cat describe-route-tables.txt
 ||+-------------------------------+-----------------------------------------------+||
 ||                                   RouteTables                                   ||
 |+------------------------------+--------------------------------------------------+|
-||  OwnerId                     |  950199909838                                    ||
+||  OwnerId                     |  123456789                                    ||
 ||  RouteTableId                |  rtb-03236502b167deccd                           ||
 ||  VpcId                       |  vpc-0ad8269a5ef8e3af7                           ||
 |+------------------------------+--------------------------------------------------+|
@@ -720,7 +720,7 @@ $ cat describe-route-tables.txt
 ||+-------------------------------+-----------------------------------------------+||
 ||                                   RouteTables                                   ||
 |+------------------------------+--------------------------------------------------+|
-||  OwnerId                     |  950199909838                                    ||
+||  OwnerId                     |  123456789                                    ||
 ||  RouteTableId                |  rtb-084965b511950f5ea                           ||
 ||  VpcId                       |  vpc-0ad8269a5ef8e3af7                           ||
 |+------------------------------+--------------------------------------------------+|
